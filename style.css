@@ -1,0 +1,22 @@
+table, th,td{
+    border: 2px solid white;
+    font-family: serif;
+}
+table{
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    height: 250px;
+}
+.even{
+    background-color: white;
+}
+.odd{
+    background-color: orange;
+}
+    .ab{
+        background-color: red;
+    }
+.cd{
+    background-color: aqua;
+}
